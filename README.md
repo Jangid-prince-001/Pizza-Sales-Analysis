@@ -6,3 +6,9 @@ Tech stack: MySQL, Power BI, DAX, Power Query
 Key skills demonstrated: SQL joins & subqueries, window functions, data modeling, DAX measures, dashboard UX design
 
 
+## Key Insights
+
+- Classic aur Chicken category ne combined milkar total revenue ka sabse bada hissa contribute kiya
+- Peak ordering hours 12 PM–1 PM (lunch) aur 6 PM–7 PM (dinner) rahe, jo staffing decisions ke liye useful insight hai
+- Medium (M) size sabse zyada order hone wala size raha, jo inventory planning me help karega
+- Top 3 revenue-generating pizzas ne total revenue ka significant percentage akela generate kiya (Pareto pattern)
